@@ -1,0 +1,187 @@
+/* Βασικές ρυθμίσεις για όλη τη σελίδα */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+/* Στυλ για τον τίτλο και το εισαγωγικό κείμενο */
+header {
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+/* Στυλ για το κεντρικό περιεχόμενο */
+main {
+    max-width: 1250px;
+    width: 95%;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+/* Στυλ για το εισαγωγικό κείμενο */
+.info-section {
+    background-color: #e2f4ff;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.info-section p {
+    margin: 0 0 15px 0;
+}
+
+/* Στυλ για τον κύριο τίτλο */
+.main-title {
+    text-align: center;
+    color: #004d99;
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+/* Στυλ για τα φίλτρα */
+.filter-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px; /* Μείωση του κενού για καλύτερη εφαρμογή */
+    margin-bottom: 20px;
+    justify-content: center; /* Κεντράρισμα των φίλτρων */
+}
+
+/* Στυλ για τα dropdowns */
+.dropdown-checkbox {
+    position: relative;
+    min-width: 120px; /* Μείωση του ελάχιστου πλάτους */
+    flex-grow: 1; /* Επιτρέπει στα φίλτρα να επεκτείνονται */
+    max-width: 250px;
+}
+
+.dropdown-header {
+    border: 1px solid #ccc;
+    padding: 10px;
+    cursor: pointer;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 5px;
+}
+
+.dropdown-arrow::after {
+    content: '▼';
+    font-size: 10px;
+}
+
+.dropdown-options {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-top: none;
+    max-height: 200px;
+    overflow-y: auto;
+    z-index: 100;
+    display: none;
+    border-radius: 0 0 5px 5px;
+}
+
+.dropdown-checkbox.open .dropdown-options {
+    display: block;
+}
+
+.checkbox-item {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+}
+
+.checkbox-item:hover {
+    background-color: #f0f0f0;
+}
+
+/* Στυλ για το κουμπί καθαρισμού φίλτρων */
+.clear-filters-container {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#clear-filters-button {
+    background-color: #dc3545;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+#clear-filters-button:hover {
+    background-color: #c82333;
+}
+
+/* Στυλ για τη λίστα των προγραμμάτων */
+#programs-list {
+    list-style: none;
+    padding: 0;
+}
+
+#no-results {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+}
+
+.program-item {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    background-color: #fff;
+}
+
+.program-item h3 {
+    margin-top: 0;
+    color: #007bff;
+}
+
+.program-item p {
+    margin: 5px 0;
+}
+
+.program-item a {
+    color: #007bff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+/* Media query για μικρές οθόνες (κινητά) */
+@media (max-width: 768px) {
+    main {
+        width: 90%;
+        margin: 10px auto;
+        padding: 10px;
+    }
+
+    .filter-container {
+        gap: 10px;
+        justify-content: center;
+    }
+
+    .dropdown-checkbox {
+        width: 75%; /* Κάθε φίλτρο καταλαμβάνει περίπου το μισό πλάτος */
+        min-width: unset; /* Αφαιρεί το ελάχιστο πλάτος */
+    }
+    
+    .clear-filters-container {
+        text-align: center;
+    }
+}

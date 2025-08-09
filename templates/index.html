@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Μεταπτυχιακά Πληροφορικής στην Ελλάδα</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <header>
+        <h1 class="main-title">Αναζήτηση Μεταπτυχιακών Προγραμμάτων Πληροφορικής</h1>
+        <div class="info-section">
+            <p>Η σελίδα αυτή προσφέρει μια συγκεντρωτική λίστα των μεταπτυχιακών προγραμμάτων που οργανώνονται ή συνδιοργανώνονται από τμήματα 
+                <a href="https://aeitei.gr/omades.php?omada=1304&year=2025" target="_blank">Πληροφορικής</a>, 
+                <a href="https://aeitei.gr/omades.php?omada=1293&year=2025" target="_blank">Μηχανικών Πληροφορικής</a>, 
+                <a href="https://aeitei.gr/omades.php?omada=1274&year=2025" target="_blank">Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών</a>,  
+                <a href="https://aeitei.gr/omades.php?omada=1317&year=2025" target="_blank">Ψηφιακών Συστημάτων</a>. 
+                Σκοπός είναι να λειτουργήσει ως σημείο αναφοράς για όσους ενδιαφέρονται να συνεχίσουν τις σπουδές τους σε μεταπτυχιακό επίπεδο στην Ελλάδα. </p>
+            <p>Τα δεδομένα συλλέχθηκαν από τις επίσημες σελίδες των τμημάτων τον Αύγουστο του 2025. Στη λίστα δεν περιλαμβάνονται προγράμματα που εμφανίζονται 
+                ως ανενεργά (π.χ., λόγω απουσίας πρόσφατης προκήρυξης ή σχετικών ανακοινώσεων). </p>
+            <p>Τα δίδακτρα που αναγράφονται αφορούν το σύνολο του προγράμματος, όπως αυτά δηλώνονται στην τελευταία προκήρυξη. 
+            Χρησιμοποιείται η γενική περίπτωση που αντιστοιχεί σε Έλληνα φοιτητή πλήρους φοίτησης, χωρίς να λαμβάνονται υπόψη 
+            οι μειωμένες χρεώσεις ή οι απαλλαγές. </p>
+            
+            <p>Η αναζήτηση επιτρέπει την επιλογή ενός ή περισσοτέρων φίλτρων, καθώς και πολλαπλών απαντήσεων σε κάθε φίλτρο. Ωστόσο, δε γίνεται δυναμικός έλεγχος 
+                των επιλογών για την απενεργοποίηση των αμοιβαία αποκλειόμενων κριτηρίων. Για παράδειγμα, αν επιλεγεί το Οικονομικό Πανεπιστήμιο Αθηνών μαζί 
+                με μια πόλη διαφορετική της Αθήνας, η αναζήτηση θα συνεχιστεί χωρίς να επιστρέψει κάποιο αποτέλεσμα.</p>
+            
+           <p>Διορθώσεις, μαζί με την απαραίτητη τεκμηρίωση, είναι ευπρόσδεκτες <a href="https://x.com/douros" target="_blank">εδώ</a>.</p>
+        </div>
+        
+    </header>
+
+    <main>
+        <div class="filter-container">
+            <div class="dropdown-checkbox">
+                <div class="dropdown-header" id="university-dropdown-header">
+                    <span id="university-dropdown-text">Επιλογή Πανεπιστημίου...</span>
+                    <span class="dropdown-arrow"></span>
+                </div>
+                <div class="dropdown-options" id="university-checkboxes">
+                </div>
+            </div>
+            <div class="dropdown-checkbox">
+                <div class="dropdown-header" id="department-dropdown-header">
+                    <span id="department-dropdown-text">Επιλογή Τμήματος...</span>
+                    <span class="dropdown-arrow"></span>
+                </div>
+                <div class="dropdown-options" id="department-checkboxes">
+                </div>
+            </div>
+            <div class="dropdown-checkbox">
+                <div class="dropdown-header" id="city-dropdown-header">
+                    <span id="city-dropdown-text">Επιλογή Πόλης...</span>
+                    <span class="dropdown-arrow"></span>
+                </div>
+                <div class="dropdown-options" id="city-checkboxes">
+                </div>
+            </div>
+            <div class="dropdown-checkbox">
+                <div class="dropdown-header" id="tuition-dropdown-header">
+                    <span id="tuition-dropdown-text">Επιλογή Διδάκτρων...</span>
+                    <span class="dropdown-arrow"></span>
+                </div>
+                <div class="dropdown-options" id="tuition-checkboxes">
+                </div>
+            </div>
+        </div>
+
+        <div class="clear-filters-container">
+            <button id="clear-filters-button">Καθαρισμός Φίλτρων</button>
+        </div>
+        
+        <ul id="programs-list">
+        </ul>
+        
+        <p id="no-results" style="display: none;">Δεν βρέθηκαν αποτελέσματα.</p>
+    </main>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
