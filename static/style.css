@@ -166,7 +166,7 @@ main {
 /* Media query για μικρές οθόνες (κινητά) */
 @media (max-width: 768px) {
     main {
-        width: 90%;
+        width: 100%;
         margin: 10px auto;
         padding: 10px;
         box-sizing: border-box;
