@@ -1,115 +1,1913 @@
 [
     {
         "department_name": [
-            "Ψηφιακών Συστημάτων"
+            "Πληροφορικής και Τηλεπικοινωνιών"
         ],
         "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
         ],
         "city": [
-            "ΛΑΡΙΣΑ"
+            "Αθήνα"
         ],
-        "program_name": "Μηχανική Λογισμικού\nγια Διαδικτυακές & Φορητές Εφαρμογές",
-        "link": "https://seima.ds.uth.gr/",
-        "tuition": 2200
+        "program_name": "Data Science and Information Technologies",
+        "link": "https://dsit.di.uoa.gr/",
+        "tuition": 2700,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πατρών"
+        ],
+        "city": [
+            "Πάτρα"
+        ],
+        "program_name": "Erasmus Mundus Master in Biomedical Engineering",
+        "link": "http://emmbiome.eu/",
+        "tuition": 6000,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "MBA Διοίκηση Επιχειρήσεων με κατεύθυνση Πληροφοριακά Συστήματα Διοίκησης",
+        "link": "https://mba-g.uowm.gr/",
+        "tuition": 2900,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Δημοκρίτειο Πανεπιστήμιο Θράκης"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Quantum Computing and Quantum Technologies",
+        "link": "https://quantum.ee.duth.gr/",
+        "tuition": 4500,
+        "study_area": [
+            "Επιστήμη και Τεχνολογία Υλικών"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Science, Technology, Society—Science and Technology Studies",
+        "link": "https://sts.phs.uoa.gr/",
+        "tuition": 1000,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Δημοκρίτειο Πανεπιστήμιο Θράκης"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Technological & Management Advances on Intelligent Transportation Electrification Systems",
+        "link": "https://tmaites.ee.duth.gr/",
+        "tuition": 4500,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών",
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών",
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Αλγόριθμοι, Λογική και Διακριτά Μαθηματικά",
+        "link": "http://alma.di.uoa.gr/",
+        "tuition": null,
+        "study_area": [
+            "Μαθηματική Μοντελοποίηση και Εφαρμογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής",
+            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πατρών"
+        ],
+        "city": [
+            "Πάτρα"
+        ],
+        "program_name": "Αλληλεπίδραση Ανθρώπου-Υπολογιστή",
+        "link": "https://hcimaster.upatras.gr/",
+        "tuition": null,
+        "study_area": [
+            "Εφαρμογές Λογισμικού"
+        ]
+    },
+    {
+        "department_name": [
+            "Επιστήμης Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Κρήτης"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Ανάλυση Δεδομένων και Μηχανική-Στατιστική Μάθηση",
+        "link": "https://mscs.uoc.gr/damsl/",
+        "tuition": 2000,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
+        ],
+        "city": [
+            "Κοζάνη"
+        ],
+        "program_name": "Ανανεώσιμες Πηγές Ενέργειας & Διαχείριση Ενέργειας στα Κτίρια",
+        "link": "https://ape.uowm.gr/",
+        "tuition": 2100,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Μακεδονίας"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Ανάπτυξη Επιχειρησιακών Συστημάτων Λογισμικού",
+        "link": "https://essd.uom.gr/",
+        "tuition": 700,
+        "study_area": [
+            "Πληροφορική (απόφοιτοι άλλων αντικειμένων)"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Οικονομικό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Ανάπτυξη και Ασφάλεια Πληροφοριακών Συστημάτων",
+        "link": "http://mscis.cs.aueb.gr/",
+        "tuition": 4000,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση",
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Αιγαίου"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ασφάλεια Πληροφοριακών και Επικοινωνιακών Συστημάτων",
+        "link": "http://msc.icsd.aegean.gr/security/",
+        "tuition": 3000,
+        "study_area": [
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
+    },
+    {
+        "department_name": [
+            "Επιστήμης Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Κρήτης"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Βιοϊατρική Μηχανική",
+        "link": "https://mscs.uoc.gr/bme-crete/",
+        "tuition": 1500,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Βιοϊατρική Μηχανική",
+        "link": "https://bme.web.auth.gr/en/applications/",
+        "tuition": 2250,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Ιόνιο Πανεπιστήμιο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Βιοπληροφορική και Νευροπληροφορική",
+        "link": "https://www.eap.gr/education/postgraduate/biannual/bioinformatics-and-neuroinformatics/",
+        "tuition": 3900,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Γεωπληροφορική",
+        "link": "https://geoinformatics.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Γλωσσική Τεχνολογία",
+        "link": "https://www.di.uoa.gr/lt",
+        "tuition": 3000,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Γνωσιακή Επιστήμη ",
+        "link": "https://cogsci.phs.uoa.gr/",
+        "tuition": 3200,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Αιγαίου"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Διαδίκτυο των Πραγμάτων: Τεχνητή Νοημοσύνη και Σύγχρονα Δίκτυα",
+        "link": "http://msc.icsd.aegean.gr/iot/",
+        "tuition": 3000,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Διαχείριση Έργων\nΥποδομών και Κατασκευών",
+        "link": "http://deyk.ntua.gr/general.html",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Διεργασίες και Τεχνολογία Προηγμένων Υλικών",
+        "link": "https://dtpy.cheng.auth.gr/el/",
+        "tuition": 3000,
+        "study_area": [
+            "Επιστήμη και Τεχνολογία Υλικών"
+        ]
+    },
+    {
+        "department_name": [
+            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Μακεδονίας"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Δίκαιο και Πληροφορική",
+        "link": "https://www.uom.gr/mli",
+        "tuition": 3300,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
     },
     {
         "department_name": [
             "Ψηφιακών Συστημάτων"
         ],
         "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
+            "Πανεπιστήμιο Πειραιά"
         ],
         "city": [
-            "ΛΑΡΙΣΑ"
-        ],
-        "program_name": "Σύγχρονα Συστήματα Επικοινωνιών και Διαδίκτυο των Πραγμάτων",
-        "link": "https://csiot.ds.uth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Πληροφοριακά Συστήματα & Υπηρεσίες",
-        "link": "https://mscdss.ds.unipi.gr/",
-        "tuition": 4200
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Ηλεκτρονική Μάθηση",
-        "link": "https://masters.ds.unipi.gr/elearning/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Κυβερνοασφάλεια και Τεχνολογίες Τεχνητής Νοημοσύνης",
-        "link": "https://cybersecurity.ds.unipi.gr/",
-        "tuition": 4900
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
+            "Εξ αποστάσεως"
         ],
         "program_name": "Δίκαιο και Τεχνολογίες Πληροφορικής και Επικοινωνιών",
         "link": "https://masters.ds.unipi.gr/MSc_Law_ICT/",
-        "tuition": 4900
+        "tuition": 4900,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Δίκτυα Επικοινωνιών και Ασφάλεια Συστημάτων",
+        "link": "https://cnss.csd.auth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες",
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής και Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Αττικής"
+        ],
+        "city": [
+            "Αιγάλεω"
+        ],
+        "program_name": "Δίκτυα Επικοινωνιών Νέας Γενιάς και Κατανεμημένα Περιβάλλοντα Εφαρμογών",
+        "link": "http://msc-ngnda.ice.uniwa.gr/",
+        "tuition": 1600,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Διοίκηση Επιχειρήσεων – «Athens MBA» ",
+        "link": "https://athensmba.aueb.gr/el/",
+        "tuition": 7500,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Διοίκηση και Οικονομική των Τηλεπικοινωνιακών Δικτύων και Πληροφοριακών Συστημάτων",
+        "link": "https://www.odt.uoa.gr/",
+        "tuition": 3200,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες",
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Δομοστατικός Σχεδιασμός και Ανάλυση των Κατασκευών",
+        "link": "http://postgrad.structural.civil.ntua.gr/msc_ads/index.html",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Επιστήμης Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Κρήτης"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Εγκέφαλος και Νους",
+        "link": "https://brain-mind.med.uoc.gr/",
+        "tuition": null,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Εναέρια Αυτόνομα Συστήματα",
+        "link": "https://uav.ece.auth.gr/",
+        "tuition": 6000,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Ελληνικό Μεσογειακό Πανεπιστήμιο"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Ενεργειακά Συστήματα",
+        "link": "https://energysystems.hmu.gr/",
+        "tuition": null,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Οικονομικό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Επιστήμη Δεδομένων",
+        "link": "https://datascience.aueb.gr/",
+        "tuition": 6000,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Τρίπολη"
+        ],
+        "program_name": "Επιστήμη Δεδομένων",
+        "link": "https://msc-data-science.iit.demokritos.gr/",
+        "tuition": 3000,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Επιστήμη Δεδομένων και Μηχανική Μάθηση",
+        "link": "https://dsml.ece.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Επιστήμη Δεδομένων και Παγκόσμιου Ιστού",
+        "link": "https://dws.csd.auth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Επιστήμης Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Κρήτης"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Επιστήμη και Μηχανική Υπολογιστών",
+        "link": "https://www.csd.uoc.gr/index.jsp?content=moc&openmenu=demoAcc4&lang=gr",
+        "tuition": null,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Βόλος"
+        ],
+        "program_name": "Επιστήμη και Τεχνολογία Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών",
+        "link": "https://ece-msc.e-ce.uth.gr/",
+        "tuition": 2000,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Επιστήμη και Τεχνολογία Υλικών",
+        "link": "http://mse.ntua.gr/?lang=el",
+        "tuition": null,
+        "study_area": [
+            "Επιστήμη και Τεχνολογία Υλικών"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Οικονομικό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Επιστήμη των Υπολογιστών",
+        "link": "http://grad.cs.aueb.gr/index.php",
+        "tuition": 2000,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεματικής"
+        ],
+        "university_name": [
+            "Χαροκόπειο  Πανεπιστήμιο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Επιστήμη των Υπολογιστών και Πληροφορική",
+        "link": "https://mphil.dit.hua.gr/",
+        "tuition": 1000,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Τρίπολη"
+        ],
+        "program_name": "Επιστήμη Υπολογιστών",
+        "link": "https://cs-msc.uop.gr/",
+        "tuition": null,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Βόλος"
+        ],
+        "program_name": "Ευφυή Δίκτυα Ηλεκτρικής Ενέργειας",
+        "link": "https://smartgrids-msc.e-ce.uth.gr/",
+        "tuition": 2000,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Εφαρμοσμένες Μαθηματικές Επιστήμες",
+        "link": "https://apms.math.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Μαθηματική Μοντελοποίηση και Εφαρμογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεματικής"
+        ],
+        "university_name": [
+            "Χαροκόπειο  Πανεπιστήμιο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Εφαρμοσμένη\nΓεωπληροφορική",
+        "link": "https://magic.hua.gr/",
+        "tuition": 3000,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Μακεδονίας"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Εφαρμοσμένη Πληροφορική",
+        "link": "https://www.uom.gr/mai",
+        "tuition": 2800,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεματικής"
+        ],
+        "university_name": [
+            "Χαροκόπειο  Πανεπιστήμιο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Εφαρμοσμένη Πληροφορική",
+        "link": "https://applied.dit.hua.gr/",
+        "tuition": 3400,
+        "study_area": [
+            "Πληροφορική (απόφοιτοι άλλων αντικειμένων)"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Διεθνές Πανεπιστήμιο Ελλάδας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Εφαρμοσμένη Πληροφορική",
+        "link": "https://mscinformatics.ihu.gr/",
+        "tuition": 2400,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Βόλος"
+        ],
+        "program_name": "Εφαρμοσμένη Πληροφορική",
+        "link": "https://api-msc.e-ce.uth.gr/",
+        "tuition": 3600,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Ιόνιο Πανεπιστήμιο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ηθική στην Τεχνολογία της Πληροφορίας",
+        "link": "https://di.ionio.gr/gr/studies/postgraduate-studies/msc-ethics/",
+        "tuition": 3000,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πολυτεχνείο Κρήτης"
+        ],
+        "city": [
+            "Χανιά"
+        ],
+        "program_name": "Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών",
+        "link": "https://www.ece.tuc.gr/el/spoydes/metaptychiakes-spoydes/metaptychiako-diploma-eidikeysis-ilektrologoy-michanikoy-kai-michanikoy-ypologiston-1",
+        "tuition": null,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Αιγαίου"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ηλεκτρονική Διακυβέρνηση",
+        "link": "http://msc.icsd.aegean.gr/egov/",
+        "tuition": 3000,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
     },
     {
         "department_name": [
             "Ψηφιακών Συστημάτων"
         ],
         "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
+            "Πανεπιστήμιο Πειραιά"
         ],
         "city": [
-            "ΠΕΙΡΑΙΑΣ"
+            "Πειραιάς"
+        ],
+        "program_name": "Ηλεκτρονική Μάθηση",
+        "link": "https://masters.ds.unipi.gr/elearning/",
+        "tuition": 3000,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Ηλεκτρονικής-Ραδιοηλεκτρολογίας",
+        "link": "https://www.phys.uoa.gr/metaptychiakes_spoydes/diatmimatiko_pms/programma_spoydon_ri",
+        "tuition": null,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Ηλεκτρονικού Αυτοματισμού",
+        "link": "https://www.phys.uoa.gr/metaptychiakes_spoydes/diatmimatiko_pms/programma_spoydon_ia",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Ιόνιο Πανεπιστήμιο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ιστορική Έρευνα, Διδακτική και Νέες Τεχνολογίες",
+        "link": "https://history.ionio.gr/hdnt/",
+        "tuition": 4000,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
         ],
         "program_name": "Κλιματική Κρίση και Τεχνολογίες Πληροφορικής και Επικοινωνιών",
         "link": "https://masters.ds.unipi.gr/MSc_Climate_ICT/",
-        "tuition": 3900
+        "tuition": 3900,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής και Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Αττικής"
+        ],
+        "city": [
+            "Αιγάλεω"
+        ],
+        "program_name": "Κυβερνοασφάλεια",
+        "link": "https://cscyb.uniwa.gr/",
+        "tuition": 2900,
+        "study_area": [
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
+        ],
+        "program_name": "Κυβερνοασφάλεια και Επιστήμη Δεδομένων",
+        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/cybersecdatasci/prosklhsh-ypobolhs-aithsewn-pms-kybernoasfaleia-kai-episthmh-dedomenwn/",
+        "tuition": 4500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
     },
     {
         "department_name": [
             "Ψηφιακών Συστημάτων"
         ],
         "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
+            "Πανεπιστήμιο Πειραιά"
         ],
         "city": [
-            "ΠΕΙΡΑΙΑΣ"
+            "Πειραιάς"
+        ],
+        "program_name": "Κυβερνοασφάλεια και Τεχνολογίες Τεχνητής Νοημοσύνης",
+        "link": "https://cybersecurity.ds.unipi.gr/",
+        "tuition": 4900,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Ασφάλεια Συστημάτων και Δικτύων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Οικονομικό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Μαθηματικά Αγοράς & Παραγωγής",
+        "link": "http://map.aueb.gr/",
+        "tuition": 4000,
+        "study_area": [
+            "Μαθηματική Μοντελοποίηση και Εφαρμογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Μαθηματική Προτυποποίηση σε Σύγχρονες Τεχνολογίες και τη Χρηματοοικονομική",
+        "link": "https://mathtechfin.math.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Μαθηματική Μοντελοποίηση και Εφαρμογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Σπάρτη"
+        ],
+        "program_name": "Μάνατζμεντ και Τεχνολογίες στην Πολιτιστική Κληρονομιά",
+        "link": "https://mantech.uop.gr/",
+        "tuition": 2800,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων",
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Αιγαίου",
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "MBA στην Ψηφιακή Καινοτομία και Νεοφυή Επιχειρηματικότητα",
+        "link": "http://msc.icsd.aegean.gr/innovation/",
+        "tuition": 4500,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Μεταφραστική Βιοϊατρική Μηχανική και Επιστήμη",
+        "link": "https://masterteam.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Μηχανική Λογισμικού\nγια Διαδικτυακές & Φορητές Εφαρμογές",
+        "link": "https://seima.ds.uth.gr/",
+        "tuition": 2200,
+        "study_area": [
+            "Εφαρμογές Λογισμικού"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πολυτεχνείο Κρήτης"
+        ],
+        "city": [
+            "Χανιά"
+        ],
+        "program_name": "Μηχανικής Μάθησης και Επιστήμης Δεδομένων",
+        "link": "https://www.mlds.tuc.gr/en/home",
+        "tuition": 500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Μηχανική Υπολογιστών, Τηλεπικοινωνιών και Δικτύων",
+        "link": "https://www.di.uoa.gr/eng",
+        "tuition": 2400,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Ελληνικό Μεσογειακό Πανεπιστήμιο"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Μηχανικών Πληροφορικής",
+        "link": "https://mscie.hmu.gr/",
+        "tuition": null,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Μηχατρονική",
+        "link": "https://mechatronics.uowm.gr/?lang=el",
+        "tuition": 2000,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Μικροσυστήματα και Νανοδιατάξεις",
+        "link": "http://physics.ntua.gr/gr/micronano/Introduction.htm",
+        "tuition": null,
+        "study_area": [
+            "Επιστήμη και Τεχνολογία Υλικών"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Ελληνικό Μεσογειακό Πανεπιστήμιο"
+        ],
+        "city": [
+            "Ηράκλειο"
+        ],
+        "program_name": "Νανοτεχνολογία για Ενεργειακές Εφαρμογές",
+        "link": "https://mscnano.hmu.gr/μεταπτυχιακός-τίτλος/",
+        "tuition": null,
+        "study_area": [
+            "Επιστήμη και Τεχνολογία Υλικών"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Ιωαννίνων"
+        ],
+        "city": [
+            "Ιωάννινα"
+        ],
+        "program_name": "Οικονομικά και Επιστήμη Δεδομένων",
+        "link": "https://eds.ac.uoi.gr/el",
+        "tuition": 4500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων",
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
+        ],
+        "program_name": "Οργάνωση και Διοίκηση Υπηρεσιών Υγείας – Πληροφορική της Υγείας",
+        "link": "https://www.nurs.uoa.gr/metaptychiakes_spoydes/organosi_dioikisi_ypiresion_ygeias_pliroforiki_tis_ygeias_dpms/",
+        "tuition": 2000,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση",
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Παραγωγή και Διαχείριση Ενέργειας",
+        "link": "http://epm.ntua.gr/gr",
+        "tuition": null,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Περιβάλλον και Ανάπτυξη",
+        "link": "https://environ.survey.ntua.gr/",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Αιγαίου"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Πληροφοριακά και Επικοινωνιακά Συστήματα",
+        "link": "http://msc.icsd.aegean.gr/ics-conversion/",
+        "tuition": 3000,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
+        ],
+        "program_name": "Πληροφοριακά Συστήματα & Υπηρεσίες",
+        "link": "https://mscdss.ds.unipi.gr/",
+        "tuition": 4200,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
+        ],
+        "program_name": "Πληροφορική",
+        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/pms-plhroforikh/",
+        "tuition": 4900,
+        "study_area": [
+            "Πληροφορική (απόφοιτοι άλλων αντικειμένων)"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Πληροφορική",
+        "link": "https://www.di.uoa.gr/cs",
+        "tuition": 2400,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής και Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Αττικής"
+        ],
+        "city": [
+            "Αιγάλεω"
+        ],
+        "program_name": "Πληροφορική και Εφαρμογές",
+        "link": "http://msc-ict.uniwa.gr/",
+        "tuition": 2100,
+        "study_area": [
+            "Πληροφορική (απόφοιτοι άλλων αντικειμένων)"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής με Εφαρμογές στη Βιοϊατρική",
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Λαμία"
+        ],
+        "program_name": "Πληροφορική και Υπολογιστική Βιοϊατρική",
+        "link": "http://icb.sci.uth.gr/",
+        "tuition": 2400,
+        "study_area": [
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Ιωαννίνων"
+        ],
+        "city": [
+            "Άρτα"
+        ],
+        "program_name": "Πληροφορικής & Δικτύων",
+        "link": "https://pms.dit.uoi.gr/",
+        "tuition": null,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
+        ],
+        "program_name": "Προηγμένα Συστήματα Πληροφορικής – Ανάπτυξη Λογισμικού και Τεχνητής Νοημοσύνης",
+        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/aics-sdai/",
+        "tuition": 4500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Εφαρμογές Λογισμικού"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Προηγμένα Συστήματα Υπολογιστών και Επικοινωνιών",
+        "link": "https://ascc.web.auth.gr/",
+        "tuition": 1950,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεματικής"
+        ],
+        "university_name": [
+            "Χαροκόπειο  Πανεπιστήμιο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Εφαρμογές",
+        "link": "https://msc.dit.hua.gr/",
+        "tuition": 2800,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής",
+            "Πληροφορικής",
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Μακεδονίας",
+            "Πανεπιστήμιο Πειραιά",
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Υπηρεσίες",
+        "link": "https://msc.cs.uowm.gr/",
+        "tuition": 2880,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Δημοκρίτειο Πανεπιστήμιο Θράκης"
+        ],
+        "city": [
+            "Καβάλα"
+        ],
+        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Υπολογιστών",
+        "link": "http://mphil.cs.duth.gr/",
+        "tuition": 500,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής και Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Αττικής"
+        ],
+        "city": [
+            "Αιγάλεω"
+        ],
+        "program_name": "Προηγμένες Τεχνολογίες Υπολογιστικών Συστημάτων ",
+        "link": "https://msc-acs.uniwa.gr/",
+        "tuition": 1600,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Προστασία, Συντήρηση και Aποκατάσταση Mνημείων Πολιτισμού",
+        "link": "https://prosynapo.web.auth.gr/",
+        "tuition": 2400,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Διεθνές Πανεπιστήμιο Ελλάδας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ρομποτική",
+        "link": "http://robotics.teicm.gr/",
+        "tuition": 2400,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
+        ],
+        "city": [
+            "Κοζάνη"
+        ],
+        "program_name": "Σύγχρονα Hλεκτρικά Δίκτυα Διανομής- ΔΕΔΔΗΕ",
+        "link": "https://smartgridsmsc.gr/",
+        "tuition": 5500,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Σύγχρονα Συστήματα Επικοινωνιών και Διαδίκτυο των Πραγμάτων",
+        "link": "https://csiot.ds.uth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Τρίπολη"
+        ],
+        "program_name": "Σύγχρονες Ασύρματες Επικοινωνίες",
+        "link": "http://wireless-msc.uop.gr/",
+        "tuition": null,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Πάτρα"
+        ],
+        "program_name": "Σύγχρονες Εφαρμογές Συστημάτων Ηλεκτρικής Ενέργειας",
+        "link": "https://energy-app.ece.uop.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Ενεργειακά Συστήματα και Ανανεώσιμες Πηγές Ενέργειας"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Συστήματα Αυτοματισμού",
+        "link": "http://dpms-as.mech.ntua.gr/en/",
+        "tuition": null,
+        "study_area": [
+            "Λοιπές Διατμηματικές Επιλογές"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής",
+            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πατρών"
+        ],
+        "city": [
+            "Πάτρα"
+        ],
+        "program_name": "Συστήματα Επεξεργασίας Πληροφορίας και Μηχανική Νοημοσύνη",
+        "link": "http://xanthippi.ceid.upatras.gr/dsp/?",
+        "tuition": null,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Ψηφιακών Συστημάτων"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πειραιά"
+        ],
+        "city": [
+            "Πειραιάς"
         ],
         "program_name": "Τεχνητή Νοημοσύνη",
         "link": "https://msc-ai.iit.demokritos.gr/el",
-        "tuition": 4500
+        "tuition": 4500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Τεχνητή Νοημοσύνη",
+        "link": "https://ai.csd.auth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Μακεδονίας"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Τεχνητή Νοημοσύνη και Αναλυτική Δεδομένων",
+        "link": "https://www.uom.gr/aida",
+        "tuition": null,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Θεσσαλίας"
+        ],
+        "city": [
+            "Λαμία"
+        ],
+        "program_name": "Τεχνητή Νοημοσύνη και Εφαρμογές",
+        "link": "https://aia.dit.uth.gr/",
+        "tuition": 1600,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Εθνικό Μετσόβιο Πολυτεχνείο"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Τεχνο-Οικονομικά Συστήματα",
+        "link": "https://technoeconomics.epu.ntua.gr/el",
+        "tuition": null,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Τεχνολογίες Διαδραστικών Συστημάτων",
+        "link": "https://ihst.csd.auth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Εφαρμογές Λογισμικού"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Δημοκρίτειο Πανεπιστήμιο Θράκης"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Τεχνολογίες Εμβύθισης-Καινοτομία στην Εκπαίδευση, την Επιμόρφωση και το Σχεδιασμό Παιχνιδιών",
+        "link": "http://imt.cs.duth.gr/",
+        "tuition": 3700,
+        "study_area": [
+            "Εφαρμογές Λογισμικού"
+        ]
+    },
+    {
+        "department_name": [
+            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+        ],
+        "university_name": [
+            "Πανεπιστήμιο Πελοποννήσου"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Τεχνολογίες και Υπηρεσίες Ευφυών Συστημάτων\nΠληροφορικής και Επικοινωνιών",
+        "link": "https://smart-ict.ece.uop.gr/",
+        "tuition": 2100,
+        "study_area": [
+            "Πληροφορική"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Εθνικό & Καποδιστριακό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Τεχνολογίες Πληροφορικής και Επικοινωνιών ",
+        "link": "https://www.di.uoa.gr/ict",
+        "tuition": 2400,
+        "study_area": [
+            "Πληροφορική (απόφοιτοι άλλων αντικειμένων)"
+        ]
+    },
+    {
+        "department_name": [
+            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
+        ],
+        "university_name": [
+            "Διεθνές Πανεπιστήμιο Ελλάδας"
+        ],
+        "city": [
+            "Σέρρες"
+        ],
+        "program_name": "Τηλεπικοινωνίες & Δίκτυα Η/Υ",
+        "link": "http://informatics.teicm.gr/msc/",
+        "tuition": 2400,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Αριστοτέλειο Πανεπιστήμιο Θεσσαλονίκης"
+        ],
+        "city": [
+            "Θεσσαλονίκη"
+        ],
+        "program_name": "Ψηφιακά Μέσα – Υπολογιστική Νοημοσύνη",
+        "link": "https://dmci.csd.auth.gr/",
+        "tuition": 1800,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Ιόνιο Πανεπιστήμιο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ψηφιακές Εφαρμογές και Καινοτομία",
+        "link": "https://di.ionio.gr/gr/studies/postgraduate-studies/digital-applications-and-innovation",
+        "tuition": 3000,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Οικονομικό Πανεπιστήμιο Αθηνών"
+        ],
+        "city": [
+            "Αθήνα"
+        ],
+        "program_name": "Ψηφιακές Μεθόδους για τις Ανθρωπιστικές Επιστήμες",
+        "link": "https://dept.aueb.gr/dmh",
+        "tuition": 4000,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
+    },
+    {
+        "department_name": [
+            "Πληροφορικής"
+        ],
+        "university_name": [
+            "Ιόνιο Πανεπιστήμιο"
+        ],
+        "city": [
+            "Εξ αποστάσεως"
+        ],
+        "program_name": "Ψηφιακές Τεχνολογίες στη Διοίκηση της Φιλοξενίας και τον Τουρισμό",
+        "link": "https://tourism.ionio.gr/ditour/",
+        "tuition": 3000,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση"
+        ]
     },
     {
         "department_name": [
@@ -118,1516 +1916,72 @@
             "Πληροφορικής"
         ],
         "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ",
-            "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ",
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
+            "Πανεπιστήμιο Πειραιά",
+            "Χαροκόπειο  Πανεπιστήμιο",
+            "Ιόνιο Πανεπιστήμιο"
         ],
         "city": [
-            "ΠΕΙΡΑΙΑΣ",
-            "ΑΘΗΝΑ",
-            "ΚΕΡΚΥΡΑ"
+            "Αθήνα"
         ],
         "program_name": "Ψηφιακές Υπηρεσίες Υγείας και Αναλυτική",
         "link": "https://mschealth.dit.hua.gr/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων",
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Οργάνωση και Διοίκηση Υπηρεσιών Υγείας – Πληροφορική της Υγείας",
-        "link": "https://www.nurs.uoa.gr/metaptychiakes_spoydes/organosi_dioikisi_ypiresion_ygeias_pliroforiki_tis_ygeias_dpms/",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Ψηφιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΣΠΑΡΤΗ"
-        ],
-        "program_name": "Μάνατζμεντ και Τεχνολογίες στην Πολιτιστική Κληρονομιά",
-        "link": "https://mantech.uop.gr/",
-        "tuition": 2800
-    },
-    {
-        "department_name": [
-            "Επιστήμης Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Επιστήμη και Μηχανική Υπολογιστών",
-        "link": "https://www.csd.uoc.gr/index.jsp?content=moc&openmenu=demoAcc4&lang=gr",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Επιστήμης Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Εγκέφαλος και Νους",
-        "link": "https://brain-mind.med.uoc.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Επιστήμης Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Ανάλυση Δεδομένων και Μηχανική-Στατιστική Μάθηση",
-        "link": "https://mscs.uoc.gr/damsl/",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Επιστήμης Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Βιοϊατρική Μηχανική",
-        "link": "https://mscs.uoc.gr/bme-crete/",
-        "tuition": 1500
-    },
-    {
-        "department_name": [
-            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Εφαρμοσμένη Πληροφορική",
-        "link": "https://www.uom.gr/mai",
-        "tuition": 2800
-    },
-    {
-        "department_name": [
-            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Δίκαιο και Πληροφορική",
-        "link": "https://www.uom.gr/mli",
-        "tuition": 3300
-    },
-    {
-        "department_name": [
-            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Τεχνητή Νοημοσύνη και Αναλυτική Δεδομένων",
-        "link": "https://www.uom.gr/aida",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Εφαρμοσμένης Πληροφορικής (2 Εισαγωγικές Κατευθύνσεις)"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Ανάπτυξη Επιχειρησιακών Συστημάτων Λογισμικού",
-        "link": "https://essd.uom.gr/",
-        "tuition": 700
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Επιστήμη των Υπολογιστών",
-        "link": "http://grad.cs.aueb.gr/index.php",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Ανάπτυξη και Ασφάλεια Πληροφοριακών Συστημάτων",
-        "link": "http://mscis.cs.aueb.gr/",
-        "tuition": 4000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Επιστήμη Δεδομένων",
-        "link": "https://datascience.aueb.gr/",
-        "tuition": 6000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Ψηφιακές Μεθόδους για τις Ανθρωπιστικές Επιστήμες",
-        "link": "https://dept.aueb.gr/dmh",
-        "tuition": 4000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΟΙΚΟΝΟΜΙΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Μαθηματικά Αγοράς & Παραγωγής",
-        "link": "http://map.aueb.gr/",
-        "tuition": 4000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Τεχνολογίες Διαδραστικών Συστημάτων",
-        "link": "https://ihst.csd.auth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Δίκτυα Επικοινωνιών και Ασφάλεια Συστημάτων",
-        "link": "https://cnss.csd.auth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Επιστήμη Δεδομένων και Παγκόσμιου Ιστού",
-        "link": "https://dws.csd.auth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Τεχνητή Νοημοσύνη",
-        "link": "https://ai.csd.auth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Ψηφιακά Μέσα – Υπολογιστική Νοημοσύνη",
-        "link": "https://dmci.csd.auth.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ"
-        ],
-        "city": [
-            "ΚΑΒΑΛΑ"
-        ],
-        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Υπολογιστών",
-        "link": "http://mphil.cs.duth.gr/",
-        "tuition": 500
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ"
-        ],
-        "city": [
-            "ΚΑΒΑΛΑ"
-        ],
-        "program_name": "Τεχνολογίες Εμβύθισης-Καινοτομία στην Εκπαίδευση την Επιμόρφωση και το Σχεδιασμό Παιχνιδιών",
-        "link": "http://imt.cs.duth.gr/",
-        "tuition": 3700
-    },
-    {
-        "department_name": [
-            "Πληροφορικής",
-            "Πληροφορικής",
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ",
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ",
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΑΣΤΟΡΙΑ",
-            "ΠΕΙΡΑΙΑΣ",
-            "ΚΟΖΑΝΗ"
-        ],
-        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Υπηρεσίες",
-        "link": "https://msc.cs.uowm.gr/",
-        "tuition": 2880
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΚΕΡΚΥΡΑ"
-        ],
-        "program_name": "Ψηφιακές Εφαρμογές και Καινοτομία",
-        "link": "https://di.ionio.gr/gr/studies/postgraduate-studies/digital-applications-and-innovation",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΚΕΡΚΥΡΑ"
-        ],
-        "program_name": "Ηθική στην Τεχνολογία της Πληροφορίας",
-        "link": "https://di.ionio.gr/gr/studies/postgraduate-studies/msc-ethics/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΚΕΡΚΥΡΑ"
-        ],
-        "program_name": "Ψηφιακές Τεχνολογίες στη Διοίκηση της Φιλοξενίας και τον Τουρισμό",
-        "link": "https://tourism.ionio.gr/ditour/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΚΕΡΚΥΡΑ"
-        ],
-        "program_name": "Ιστορική Έρευνα, Διδακτική και Νέες Τεχνολογίες",
-        "link": "https://history.ionio.gr/hdnt/",
-        "tuition": 4000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΙΟΝΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΚΕΡΚΥΡΑ"
-        ],
-        "program_name": "Βιοπληροφορική και Νευροπληροφορική",
-        "link": "https://www.eap.gr/education/postgraduate/biannual/bioinformatics-and-neuroinformatics/",
-        "tuition": 3900
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Πληροφορική",
-        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/pms-plhroforikh/",
-        "tuition": 4900
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Προηγμένα Συστήματα Πληροφορικής – Ανάπτυξη Λογισμικού και Τεχνητής Νοημοσύνης",
-        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/aics-sdai/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Ψηφιακός Πολιτισμός, Έξυπνες Πόλεις, IoT και Προηγμένες Ψηφιακές Τεχνολογίες",
-        "link": "https://dcsciot.unipi.gr/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΙΡΑΙΑ"
-        ],
-        "city": [
-            "ΠΕΙΡΑΙΑΣ"
-        ],
-        "program_name": "Κυβερνοασφάλεια και Επιστήμη Δεδομένων",
-        "link": "https://cs.unipi.gr/metaptyxiakes-spoudes/cybersecdatasci/prosklhsh-ypobolhs-aithsewn-pms-kybernoasfaleia-kai-episthmh-dedomenwn/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεματικής"
-        ],
-        "university_name": [
-            "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Προηγμένες Τεχνολογίες Πληροφορικής και Εφαρμογές",
-        "link": "https://msc.dit.hua.gr/",
-        "tuition": 2800
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεματικής"
-        ],
-        "university_name": [
-            "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Εφαρμοσμένη Πληροφορική",
-        "link": "https://applied.dit.hua.gr/",
-        "tuition": 3400
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεματικής"
-        ],
-        "university_name": [
-            "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Επιστήμη των Υπολογιστών και Πληροφορική",
-        "link": "https://mphil.dit.hua.gr/",
-        "tuition": 1000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεματικής"
-        ],
-        "university_name": [
-            "ΧΑΡΟΚΟΠΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Εφαρμοσμένη\nΓεωπληροφορική",
-        "link": "https://magic.hua.gr/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Πληροφορική",
-        "link": "https://www.di.uoa.gr/cs",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Μηχανική Υπολογιστών, Τηλεπικοινωνιών και Δικτύων",
-        "link": "https://www.di.uoa.gr/eng",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Τεχνολογίες Πληροφορικής και Επικοινωνιών ",
-        "link": "https://www.di.uoa.gr/ict",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Data Science and Information\nTechnologies",
-        "link": "https://dsit.di.uoa.gr/",
-        "tuition": 2700
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Διοίκηση και Οικονομική των Τηλεπικοινωνιακών Δικτύων και Πληροφοριακών Συστημάτων",
-        "link": "https://www.odt.uoa.gr/",
-        "tuition": 3200
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Γλωσσική Τεχνολογία",
-        "link": "https://www.di.uoa.gr/lt",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Γνωσιακή Επιστήμη ",
-        "link": "https://cogsci.phs.uoa.gr/",
-        "tuition": 3200
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Science, Technology, Society—Science and Technology Studies",
-        "link": "https://sts.phs.uoa.gr/",
-        "tuition": 1000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Ηλεκτρονικής-Ραδιοηλεκτρολογίας",
-        "link": "https://www.phys.uoa.gr/metaptychiakes_spoydes/diatmimatiko_pms/programma_spoydon_ri",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Ηλεκτρονικού Αυτοματισμού",
-        "link": "https://www.phys.uoa.gr/metaptychiakes_spoydes/diatmimatiko_pms/programma_spoydon_ia",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών",
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ & ΚΑΠΟΔΙΣΤΡΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΘΗΝΩΝ",
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Αλγόριθμοι, Λογική και Διακριτά Μαθηματικά",
-        "link": "https://www.di.uoa.gr/studies/graduate/alma",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΙΩΑΝΝΙΝΩΝ"
-        ],
-        "city": [
-            "ΑΡΤΑ"
-        ],
-        "program_name": "Πληροφορικής & Δικτύων",
-        "link": "https://pms.dit.uoi.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
-        ],
-        "city": [
-            "ΛΑΜΙΑ"
-        ],
-        "program_name": "Τεχνητή Νοημοσύνη και Εφαρμογές",
-        "link": "https://aia.dit.uth.gr/",
-        "tuition": 1600
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΤΡΙΠΟΛΗ"
-        ],
-        "program_name": "Σύγχρονες Ασύρματες Επικοινωνίες",
-        "link": "http://wireless-msc.uop.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΤΡΙΠΟΛΗ"
-        ],
-        "program_name": "Επιστήμη Υπολογιστών",
-        "link": "https://cs-msc.uop.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΤΡΙΠΟΛΗ"
-        ],
-        "program_name": "Επιστήμη Δεδομένων",
-        "link": "https://msc-data-science.iit.demokritos.gr/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Πληροφορικής με Εφαρμογές στη Βιοϊατρική",
-            "Πληροφορικής και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
-        ],
-        "city": [
-            "ΛΑΜΙΑ"
-        ],
-        "program_name": "Πληροφορική και Υπολογιστική Βιοϊατρική",
-        "link": "http://icb.sci.uth.gr/",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΙΩΑΝΝΙΝΩΝ"
-        ],
-        "city": [
-            "ΙΩΑΝΝΙΝΑ"
-        ],
-        "program_name": "Οικονομικά και Επιστήμη Δεδομένων",
-        "link": "https://eds.ac.uoi.gr/el",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής",
-            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ"
-        ],
-        "city": [
-            "ΠΑΤΡΑ"
-        ],
-        "program_name": "Συστήματα Επεξεργασίας Πληροφορίας και Μηχανική Νοημοσύνη",
-        "link": "http://xanthippi.ceid.upatras.gr/dsp/?",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Μηχανικών Ηλεκτρονικών Υπολογιστών και Πληροφορικής",
-            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ"
-        ],
-        "city": [
-            "ΠΑΤΡΑ"
-        ],
-        "program_name": "Αλληλεπίδραση Ανθρώπου-Υπολογιστή",
-        "link": "https://hcimaster.upatras.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
-        ],
-        "city": [
-            "ΣΑΜΟΣ"
-        ],
-        "program_name": "Ασφάλεια Πληροφοριακών και Επικοινωνιακών Συστημάτων",
-        "link": "http://msc.icsd.aegean.gr/security/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
-        ],
-        "city": [
-            "ΣΑΜΟΣ"
-        ],
-        "program_name": "Διαδίκτυο των Πραγμάτων: Τεχνητή Νοημοσύνη και Σύγχρονα Δίκτυα",
-        "link": "http://msc.icsd.aegean.gr/iot/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
-        ],
-        "city": [
-            "ΣΑΜΟΣ"
-        ],
-        "program_name": "Ηλεκτρονική Διακυβέρνηση",
-        "link": "http://msc.icsd.aegean.gr/egov/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ"
-        ],
-        "city": [
-            "ΣΑΜΟΣ"
-        ],
-        "program_name": "Πληροφοριακά και Επικοινωνιακά Συστήματα",
-        "link": "http://msc.icsd.aegean.gr/ics-conversion/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφοριακών και Επικοινωνιακών Συστημάτων",
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΑΙΓΑΙΟΥ",
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΣΑΜΟΣ",
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "ΜΒΑ στην Ψηφιακή Καινοτομία και Νεοφυή Επιχειρηματικότητα",
-        "link": "http://msc.icsd.aegean.gr/innovation/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής και Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
-        ],
-        "city": [
-            "ΑΙΓΑΛΕΩ"
-        ],
-        "program_name": "Πληροφορική και Εφαρμογές",
-        "link": "http://msc-ict.uniwa.gr/",
-        "tuition": 2100
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής και Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
-        ],
-        "city": [
-            "ΑΙΓΑΛΕΩ"
-        ],
-        "program_name": "Ψηφιακός Μετασχηματισμός και Εκπαιδευτική Πράξη",
-        "link": "http://msc-ditrep.uniwa.gr/",
-        "tuition": 3600
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής και Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
-        ],
-        "city": [
-            "ΑΙΓΑΛΕΩ"
-        ],
-        "program_name": "Κυβερνοασφάλεια",
-        "link": "https://cscyb.uniwa.gr/",
-        "tuition": 2900
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής και Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
-        ],
-        "city": [
-            "ΑΙΓΑΛΕΩ"
-        ],
-        "program_name": "Δίκτυα Επικοινωνιών Νέας Γενιάς και Κατανεμημένα Περιβάλλοντα Εφαρμογών",
-        "link": "http://msc-ngnda.ice.uniwa.gr/",
-        "tuition": 1600
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής και Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΑΤΤΙΚΗΣ"
-        ],
-        "city": [
-            "ΑΙΓΑΛΕΩ"
-        ],
-        "program_name": "Προηγμένες Τεχνολογίες Υπολογιστικών Συστημάτων ",
-        "link": "https://msc-acs.uniwa.gr/",
-        "tuition": 1600
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ ΕΛΛΑΔΑΣ"
-        ],
-        "city": [
-            "ΣΕΡΡΕΣ"
-        ],
-        "program_name": "Εφαρμοσμένη Πληροφορική",
-        "link": "https://mscinformatics.ihu.gr/",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ ΕΛΛΑΔΑΣ"
-        ],
-        "city": [
-            "ΣΕΡΡΕΣ"
-        ],
-        "program_name": "Τηλεπικοινωνίες & Δίκτυα Η/Υ",
-        "link": "http://informatics.teicm.gr/msc/",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Μηχανικών Πληροφορικής Υπολογιστών και Τηλεπικοινωνιών"
-        ],
-        "university_name": [
-            "ΔΙΕΘΝΕΣ ΠΑΝΕΠΙΣΤΗΜΙΟ ΕΛΛΑΔΑΣ"
-        ],
-        "city": [
-            "ΣΕΡΡΕΣ"
-        ],
-        "program_name": "Ρομποτική",
-        "link": "http://robotics.teicm.gr/",
-        "tuition": 2400
+        "tuition": 4500,
+        "study_area": [
+            "Τεχνητή Νοημοσύνη, Μηχανική Μάθηση και Επιστήμη Δεδομένων",
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
     },
     {
         "department_name": [
             "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
         ],
         "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
+            "Πανεπιστήμιο Δυτικής Μακεδονίας"
         ],
         "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Τεχνο-Οικονομικά Συστήματα",
-        "link": "https://technoeconomics.epu.ntua.gr/el",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Παραγωγή και Διαχείριση Ενέργειας",
-        "link": "http://epm.ntua.gr/gr",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Επιστήμη Δεδομένων και Μηχανική Μάθηση",
-        "link": "https://dsml.ece.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Μεταφραστική Βιοϊατρική Μηχανική και Επιστήμη",
-        "link": "https://masterteam.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Διοίκηση Επιχειρήσεων – «AthensMBA» ",
-        "link": "https://athensmba.aueb.gr/el/",
-        "tuition": 7500
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Γεωπληροφορική",
-        "link": "https://geoinformatics.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Δομοστατικός Σχεδιασμός και Ανάλυση των Κατασκευών",
-        "link": "http://postgrad.structural.civil.ntua.gr/msc_ads/index.html",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Επιστήμη και Τεχνολογία Υλικών",
-        "link": "http://mse.ntua.gr/?lang=el",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Μικροσυστήματα και Νανοδιατάξεις",
-        "link": "http://physics.ntua.gr/gr/micronano/Introduction.htm",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Περιβάλλον και Ανάπτυξη",
-        "link": "https://environ.survey.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Συστήματα Αυτοματισμού",
-        "link": "http://dpms-as.mech.ntua.gr/en/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Μαθηματική Προτυποποίηση σε Σύγχρονες Τεχνολογίες και τη Χρηματοοικονομική",
-        "link": "https://mathtechfin.math.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Εφαρμοσμένες Μαθηματικές Επιστήμες",
-        "link": "https://apms.math.ntua.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΘΝΙΚΟ ΜΕΤΣΟΒΙΟ ΠΟΛΥΤΕΧΝΕΙΟ"
-        ],
-        "city": [
-            "ΑΘΗΝΑ"
-        ],
-        "program_name": "Διαχείριση Έργων\nΥποδομών και Κατασκευών",
-        "link": "http://deyk.ntua.gr/general.html",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
-        ],
-        "city": [
-            "ΒΟΛΟΣ"
-        ],
-        "program_name": "Επιστήμη και Τεχνολογία Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών",
-        "link": "https://ece-msc.e-ce.uth.gr/",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
-        ],
-        "city": [
-            "ΒΟΛΟΣ"
-        ],
-        "program_name": "Ευφυή Δίκτυα Ηλεκτρικής Ενέργειας",
-        "link": "https://smartgrids-msc.e-ce.uth.gr/",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΙΑΣ"
-        ],
-        "city": [
-            "ΒΟΛΟΣ"
-        ],
-        "program_name": "Εφαρμοσμένη Πληροφορική",
-        "link": "https://api-msc.e-ce.uth.gr/",
-        "tuition": 3600
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΛΛΗΝΙΚΟ ΜΕΣΟΓΕΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Μηχανικών Πληροφορικής",
-        "link": "https://mscie.hmu.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΛΛΗΝΙΚΟ ΜΕΣΟΓΕΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Ενεργειακά Συστήματα",
-        "link": "https://energysystems.hmu.gr/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΕΛΛΗΝΙΚΟ ΜΕΣΟΓΕΙΑΚΟ ΠΑΝΕΠΙΣΤΗΜΙΟ"
-        ],
-        "city": [
-            "ΗΡΑΚΛΕΙΟ"
-        ],
-        "program_name": "Νανοτεχνολογία για Ενεργειακές Εφαρμογές",
-        "link": "https://mscnano.hmu.gr/μεταπτυχιακός-τίτλος/",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Βιοϊατρική Μηχανική",
-        "link": "https://bme.web.auth.gr/en/applications/",
-        "tuition": 2250
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Προηγμένα Συστήματα Υπολογιστών και Επικοινωνιών",
-        "link": "https://ascc.web.auth.gr/",
-        "tuition": 1950
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Διεργασίες και Τεχνολογία Προηγμένων Υλικών",
-        "link": "https://dtpy.cheng.auth.gr/el/",
-        "tuition": 3000
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Προστασία, Συντήρηση και Aποκατάσταση Mνημείων Πολιτισμού",
-        "link": "https://prosynapo.web.auth.gr/",
-        "tuition": 2400
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΑΡΙΣΤΟΤΕΛΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΕΣΣΑΛΟΝΙΚΗΣ"
-        ],
-        "city": [
-            "ΘΕΣΣΑΛΟΝΙΚΗ"
-        ],
-        "program_name": "Εναέρια Αυτόνομα Συστήματα",
-        "link": "https://uav.ece.auth.gr/",
-        "tuition": 6000
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΟΖΑΝΗ"
-        ],
-        "program_name": "Σύγχρονα Hλεκτρικά Δίκτυα Διανομής- ΔΕΔΔΗΕ",
-        "link": "https://smartgridsmsc.gr/",
-        "tuition": 5500
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΟΖΑΝΗ"
-        ],
-        "program_name": "Μηχατρονική",
-        "link": "https://mechatronics.uowm.gr/?lang=el",
-        "tuition": 2000
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΟΖΑΝΗ"
-        ],
-        "program_name": "ΜΒΑ Διοίκηση Επιχειρήσεων με κατεύθυνση Πληροφοριακά Συστήματα Διοίκησης",
-        "link": "https://mba-g.uowm.gr/",
-        "tuition": 2900
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΟΖΑΝΗ"
-        ],
-        "program_name": "Ανανεώσιμες Πηγές Ενέργειας & Διαχείριση Ενέργειας στα Κτίρια",
-        "link": "https://ape.uowm.gr/",
-        "tuition": 2100
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΔΥΤΙΚΗΣ ΜΑΚΕΔΟΝΙΑΣ"
-        ],
-        "city": [
-            "ΚΟΖΑΝΗ"
+            "Εξ αποστάσεως"
         ],
         "program_name": "Ψηφιακή Υγεία και Διοίκηση Υπηρεσιών Υγείας",
         "link": "https://dhm.ece.uowm.gr/",
-        "tuition": 3900
+        "tuition": 3900,
+        "study_area": [
+            "Ψηφιακός Μετασχηματισμός και Διοίκηση",
+            "Βιοπληροφορική, Πληροφορική και Υγεία"
+        ]
     },
     {
         "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+            "Μηχανικών Πληροφορικής και Υπολογιστών"
         ],
         "university_name": [
-            "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ"
+            "Πανεπιστήμιο Δυτικής Αττικής"
         ],
         "city": [
-            "ΞΑΝΘΗ"
+            "Αιγάλεω"
         ],
-        "program_name": "Quantum Computing and Quantum Technologies",
-        "link": "https://quantum.ee.duth.gr/",
-        "tuition": 4500
+        "program_name": "Ψηφιακός Μετασχηματισμός και Εκπαιδευτική Πράξη",
+        "link": "http://msc-ditrep.uniwa.gr/",
+        "tuition": 3600,
+        "study_area": [
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
     },
     {
         "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
+            "Πληροφορικής"
         ],
         "university_name": [
-            "ΔΗΜΟΚΡΙΤΕΙΟ ΠΑΝΕΠΙΣΤΗΜΙΟ ΘΡΑΚΗΣ"
+            "Πανεπιστήμιο Πειραιά"
         ],
         "city": [
-            "ΞΑΝΘΗ"
+            "Πειραιάς"
         ],
-        "program_name": "Technological & Management Advances on Intelligent Transportation Electrification Systems",
-        "link": "https://tmaites.ee.duth.gr/",
-        "tuition": 4500
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΠΑΤΡΑ"
-        ],
-        "program_name": "Τεχνολογίες και Υπηρεσίες Ευφυών Συστημάτων\nΠληροφορικής και Επικοινωνιών",
-        "link": "https://smart-ict.ece.uop.gr/",
-        "tuition": 2100
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΕΛΟΠΟΝΝΗΣΟΥ"
-        ],
-        "city": [
-            "ΠΑΤΡΑ"
-        ],
-        "program_name": "Σύγχρονες Εφαρμογές Συστημάτων Ηλεκτρικής Ενέργειας",
-        "link": "https://energy-app.ece.uop.gr/",
-        "tuition": 1800
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΟΛΥΤΕΧΝΕΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΧΑΝΙΑ"
-        ],
-        "program_name": "Ηλεκτρολόγου Μηχανικού και Μηχανικού Υπολογιστών",
-        "link": "https://www.ece.tuc.gr/el/spoydes/metaptychiakes-spoydes/metaptychiako-diploma-eidikeysis-ilektrologoy-michanikoy-kai-michanikoy-ypologiston-1",
-        "tuition": null
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Μηχανικών Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΟΛΥΤΕΧΝΕΙΟ ΚΡΗΤΗΣ"
-        ],
-        "city": [
-            "ΧΑΝΙΑ"
-        ],
-        "program_name": "Μηχανική Μάθησης και Επιστήμης Δεδομένων",
-        "link": "https://www.mlds.tuc.gr/en/home",
-        "tuition": 500
-    },
-    {
-        "department_name": [
-            "Ηλεκτρολόγων Μηχανικών και Τεχνολογίας Υπολογιστών"
-        ],
-        "university_name": [
-            "ΠΑΝΕΠΙΣΤΗΜΙΟ ΠΑΤΡΩΝ"
-        ],
-        "city": [
-            "ΠΑΤΡΑ"
-        ],
-        "program_name": "Erasmus Mundus Master in Biomedical Engineering",
-        "link": "http://emmbiome.eu/",
-        "tuition": 6000
+        "program_name": "Ψηφιακός Πολιτισμός, Έξυπνες Πόλεις, IoT και Προηγμένες Ψηφιακές Τεχνολογίες",
+        "link": "https://dcsciot.unipi.gr/",
+        "tuition": 4500,
+        "study_area": [
+            "Δίκτυα Υπολογιστών και Τηλεπικοινωνίες",
+            "Ψηφιακές Επιστήμες και Κοινωνία"
+        ]
     }
 ]

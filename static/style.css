@@ -42,41 +42,59 @@ main {
 .main-title {
     text-align: center;
     color: #004d99;
-    margin-top: 0;
-    margin-bottom: 30px;
+    margin: 0 0 20px 0;
 }
 
 /* Στυλ για τα φίλτρα */
 .filter-container {
     display: flex;
     flex-wrap: wrap;
-    gap: 15px; /* Μείωση του κενού για καλύτερη εφαρμογή */
+    justify-content: space-between;
     margin-bottom: 20px;
-    justify-content: center; /* Κεντράρισμα των φίλτρων */
+    gap: 15px;
 }
 
-/* Στυλ για τα dropdowns */
+/* Στυλ για το ξεχωριστό φίλτρο της θεματικής περιοχής */
+.filter-container-study-area {
+    display: flex;
+    justify-content: center; /* Κεντράρισμα του μοναδικού φίλτρου */
+    margin-bottom: 20px;
+}
+
+/* Στυλ για κάθε dropdown */
 .dropdown-checkbox {
     position: relative;
-    min-width: 120px; /* Μείωση του ελάχιστου πλάτους */
-    flex-grow: 1; /* Επιτρέπει στα φίλτρα να επεκτείνονται */
-    max-width: 250px;
+    width: calc(25% - 15px); /* 4 φίλτρα */
+    min-width: 200px;
 }
 
+/* Στυλ για την επικεφαλίδα του dropdown */
 .dropdown-header {
-    border: 1px solid #ccc;
-    padding: 10px;
+    background-color: #f0f0f0;
+    padding: 10px 15px;
     cursor: pointer;
-    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border-radius: 5px;
 }
 
-.dropdown-arrow::after {
-    content: '▼';
-    font-size: 10px;
+.dropdown-header:hover {
+    background-color: #e9e9e9;
+}
+
+.dropdown-arrow {
+    width: 0;
+    height: 0;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-top: 6px solid #555;
+    transition: transform 0.3s;
+}
+
+.dropdown-checkbox.open .dropdown-arrow {
+    transform: rotate(180deg);
 }
 
 .dropdown-options {
@@ -87,11 +105,12 @@ main {
     background-color: #fff;
     border: 1px solid #ccc;
     border-top: none;
+    border-radius: 0 0 5px 5px;
+    padding: 10px;
     max-height: 200px;
     overflow-y: auto;
-    z-index: 100;
+    z-index: 1000;
     display: none;
-    border-radius: 0 0 5px 5px;
 }
 
 .dropdown-checkbox.open .dropdown-options {
@@ -99,9 +118,10 @@ main {
 }
 
 .checkbox-item {
-    padding: 10px;
     display: flex;
     align-items: center;
+    gap: 8px; /* Προσθήκη κενού μεταξύ του checkbox και του κειμένου */
+    padding: 5px 0;
 }
 
 .checkbox-item:hover {
@@ -163,6 +183,50 @@ main {
     font-weight: bold;
 }
 
+#search-results-message {
+    text-align: center;
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* Στυλ για τα διαγράμματα */
+.chart-flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.chart-container {
+    flex: 1 1 45%;
+    max-width: 500px;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+}
+
+/* Media query για tablets και μικρότερα */
+@media (min-width: 769px) and (max-width: 1024px)  {
+    .filter-container .dropdown-checkbox,
+    .filter-container-study-area .dropdown-checkbox {
+        width: calc(50% - 15px); /* Κάνει τα φίλτρα να χωράνε ανά δύο σε κάθε γραμμή */
+        min-width: unset;
+    }
+    
+    .filter-container {
+        justify-content: space-between;
+    }
+    
+    .filter-container-study-area {
+        justify-content: space-between;
+    }
+}
+
+
 /* Media query για μικρές οθόνες (κινητά) */
 @media (max-width: 768px) {
     main {
@@ -179,11 +243,46 @@ main {
     }
 
     .dropdown-checkbox {
-        width: 75%; /* Κάθε φίλτρο καταλαμβάνει περίπου το μισό πλάτος */
-        min-width: unset; /* Αφαιρεί το ελάχιστο πλάτος */
+        width: 75%;
+        min-width: unset;
     }
-    
-    .clear-filters-container {
-        text-align: center;
+
+    .filter-container-study-area .dropdown-checkbox {
+        width: 75%;
     }
+
+    .chart-container {
+        width: 100%;
+        max-width: 100%;
+    }
+}
+
+/* Στυλ για τον διαχωριστικό χαρακτήρα των Θεματικών Περιοχών */
+.program-item p .separator {
+    font-weight: bold;
+    color: #0000ff;
+}
+
+/* Στυλ για την υποσημείωση μέσα στο info-section */
+.info-footnote {
+    margin-top: 10px;
+    padding-top: 10px;
+    border-top: 1px solid #c9c9c9;
+    font-size: 0.8em;
+    color: #666;
+}
+
+.info-footnote a {
+    color: #007bff;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+/* Στυλ για τα captions των γραφημάτων */
+.chart-caption {
+    font-style: italic;
+    text-align: center;
+    margin-top: 10px; /* Προσθέτουμε λίγο κενό από το γράφημα */
+    font-size: 0.9em;
+    color: #666;
 }
